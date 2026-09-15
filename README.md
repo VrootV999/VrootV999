@@ -9,6 +9,12 @@ A multidisciplinary security practitioner and developer obsessed with breaking t
 
 ## Featured Projects
 
+## 🎯 What I'm Looking For
+
+* **Career Opportunities:** Stepping into roles focused on **Red Teaming**, **Offensive Security Engineering**, or **SOC Analysis** where I can leverage both my low-level development skills and offensive mindset.
+* **Collaboration & Connections:** I’m actively looking to connect with fellow security researchers, developers, and builders who share a passion for low-level systems, custom offensive tooling, and breaking complex architectures. 
+* **Projects to Build Together:** Open-source security tools, automated red team frameworks, custom C2 features, or anything that pushes the boundaries of code and security.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cr1ms0nr3d) 
@@ -28,5 +34,3 @@ A multidisciplinary security practitioner and developer obsessed with breaking t
 
 ---
 [![](https://komarev.com/ghpvc/?username=VrootV999&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
