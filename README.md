@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm currently  preparing for a cybersecurity job in mostly for Red Teaming or a SoC analyst. <br>I have skills in various fields from red teaming to forensics to blue teaming and much more. <br>my portfolio is much more varied and I'd love to focus towards red teaming. my other things <br>that I've focused on includes forensics, SCADA/ICS hacking, LLM red teaming, Reverse Engineering, <br>Web Application Hacking, Cloud Hacking. I'm also sort of a great developer aswell. I do a fun project here<br>and there so that makes me competent enough to understand programming hence making <br>me sort of a good pick for cybersecurity aswell. I'm looking for people in the same mindset and field <br>so that I can work with them and make my profile better and also learn even more new things<br>on the way. I'm currently working on various projects which includes the same fields I've said above<br>and also some development projects aswell. I'm currently looking for fellow codeheads. <br>
+A multidisciplinary security practitioner and developer obsessed with breaking things to build them stronger. While my core passion lies in **Red Teaming**, **Reverse Engineering**, and **Advanced Offensive Operations**, I have a deep appreciation for the defender's side (SOC/Blue Team) and system internals.
+
+## What I DO
+*   **Offensive Operations:** Red Teaming, Web Application Hacking, Cloud Hacking (AWS/Azure).
+*   **Specialized Domains:** SCADA/ICS Security & Hacking, LLM Red Teaming & Prompt Security, Hardware Security.
+*   **Low-Level & Analysis:** Reverse Engineering, Digital Forensics & Incident Response (DFIR).
+*   **Engineering:** Full-stack development, custom tool crafting, automation scripts (Python, Go, C/C++,Rust,Bash,Powershell).
+
+## Featured Projects
 
 
 ## 🌐 Socials:
