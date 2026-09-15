@@ -17,7 +17,7 @@ A multidisciplinary security practitioner and developer obsessed with breaking t
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishruth-GV) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishruth-gv) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishrooth@proton.me) 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-121621?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/VrootV999)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/VrootV241)
