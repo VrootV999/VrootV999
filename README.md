@@ -1,13 +1,13 @@
 # 💫 About Me:
 A multidisciplinary security practitioner and developer obsessed with breaking things to build them stronger. While my core passion lies in **Red Teaming**, **Reverse Engineering**, and **Advanced Offensive Operations**, I have a deep appreciation for the defender's side (SOC/Blue Team) and system internals.
 
-## What I DO
+## 🛡️ What I DO
 *   **Offensive Operations:** Red Teaming, Web Application Hacking, Cloud Hacking (AWS/Azure).
 *   **Specialized Domains:** SCADA/ICS Security & Hacking, LLM Red Teaming & Prompt Security, Hardware Security.
 *   **Low-Level & Analysis:** Reverse Engineering, Digital Forensics & Incident Response (DFIR).
 *   **Engineering:** Full-stack development, custom tool crafting, automation scripts (Python, Go, C/C++,Rust,Bash,Powershell).
 
-## Featured Projects
+## 🛠️ Featured Projects
 
 ## 🎯 What I'm Looking For
 
